@@ -7,7 +7,7 @@ void Menu::showMenu() {
 	cout << "*     3) Multiplication              *" << endl;
 	cout << "*     4) Dividing                    *" << endl;
 	cout << "**************************************" << endl;
-	cout << "Choose a number (1-4) , which process do you want ? \n\n";
+	cout << "Enter a number (1-4) , which process do you want ? \n\n";
 }
 void  Menu :: addition () {
 		cout << " ********* Addition *********\n";
